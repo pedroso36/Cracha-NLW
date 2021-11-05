@@ -1,9 +1,9 @@
 const linksSocialMedia = {
   github: 'pedroso36',
-  youtube: 'UCUZDq458Mb0sEwUBhQnXuTw',
+  youtube: 'YamashidaGameplay',
   instagram: 'guto_36',
-  facebook: 'carlacoelho',
-  twitter: 'ccc'
+  facebook: '',
+  twitter: ''
 }
 
 function changeSocialMediaLinks() {
